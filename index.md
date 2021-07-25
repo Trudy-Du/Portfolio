@@ -1,6 +1,6 @@
-# Project experience
+## Project Experience
+Below is a list of projects that I worked on during the study at Durham College. They showcase some of tools I commonly use.
 ## New York City Shooting Incidents Analysis | Durham college 
-
 Power BI is used to create a dashboard which displays the time, location and borough trends of New York City Shooting Incidents. Then some advice were given to the public and the Police Department based on the analysis.
 
 **_Technology Used_**
@@ -9,17 +9,14 @@ Power BI is used to create a dashboard which displays the time, location and bor
 
 **_Dashboard_**
 
-![image](https://user-images.githubusercontent.com/87041402/126900287-13937881-f890-4f7f-ad56-eecc6ded41e9.png)
+![image](https://user-images.githubusercontent.com/87041402/126901228-b622c646-c07a-41fd-9a1a-49ffd2a20c46.png)
 
 ## Green Energy Initiatives | Durham college 
-
 A collaborative effort between five classmates of the program to analyze the Green Energy initiatives taken by Canada and to compare with World’s Green Energy initiatives.
-
 **_Technology Used_**
 - Excel
 - Python
 - Power BI & Tableau
-
 **_Dashboard_**
 
 ![image](https://user-images.githubusercontent.com/87041402/126900729-d8a70181-7d57-4043-849e-2480013e2c76.png)
