@@ -1,10 +1,10 @@
 # Project experience
 ## New York City Shooting Incidents Analysis | Durham college 
 
-Power BI is used to create a dashboard which displays the time, location and borough trends of New York City Shooting Incidents. Then we give some advice to the public and the Police Department.
+Power BI is used to create a dashboard which displays the time, location and borough trends of New York City Shooting Incidents. Then some advice were given to the public and the Police Department based on the analysis.
 
 _Technology Used_
-
+- Bulleted
 •	Power Query
 •	Power BI
 
