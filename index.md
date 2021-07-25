@@ -1,14 +1,13 @@
-## Project experience
-### New York City Shooting Incidents Analysis | Durham college 
-# The project rtant trends and insights through data analysis and visualization.
+# Project experience
+## New York City Shooting Incidents Analysis | Durham college 
 
-Then we can give some advice to the public and the Police Department.
-![image](https://user-images.githubusercontent.com/87041402/126899623-08a3c257-50f8-4070-885f-d5cd08c268fa.png)
-This dashboard displays the the time, location and borough trends of New York City Shooting Incidents. 
+Power BI is used to create a dashboard which displays the time, location and borough trends of New York City Shooting Incidents. Then we give some advice to the public and the Police Department.
 
+_Technology Used_
 
+•	Power Query
+•	Power BI
 
- kkkkkkkkd
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
