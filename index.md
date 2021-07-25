@@ -1,6 +1,6 @@
 # Project experience
 ## New York City Shooting Incidents Analysis | Durham college 
-### Police
+
 Power BI is used to create a dashboard which displays the time, location and borough trends of New York City Shooting Incidents. Then some advice were given to the public and the Police Department based on the analysis.
 
 **_Technology Used_**
@@ -8,8 +8,22 @@ Power BI is used to create a dashboard which displays the time, location and bor
 - Power BI
 
 **_Dashboard_**
-![image](https://user-images.githubusercontent.com/87041402/126900167-9e016713-eb59-4381-a5e5-f6053f36a72f.png)
 
+![image](https://user-images.githubusercontent.com/87041402/126900287-13937881-f890-4f7f-ad56-eecc6ded41e9.png)
+
+## Green Energy Initiatives | Durham college 
+
+A collaborative effort between five classmates of the program to analyze the Green Energy initiatives taken by Canada and to compare with World’s Green Energy initiatives.
+
+**_Technology Used_**
+- Excel
+- Python
+- Power BI & Tableau
+
+**_Dashboard_**
+
+![image](https://user-images.githubusercontent.com/87041402/126900729-d8a70181-7d57-4043-849e-2480013e2c76.png)
+![image](https://user-images.githubusercontent.com/87041402/126900746-593dc32e-74e3-4043-9d91-12d0003b89d1.png)
 
 ### Markdown
 
