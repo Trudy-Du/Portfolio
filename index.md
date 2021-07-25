@@ -1,4 +1,4 @@
-## Welcome to My Portfolio!
+## Welcome to Trudy's Portfolio!
 
 You can use the [editor on GitHub](https://github.com/Trudy-Du/Portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
