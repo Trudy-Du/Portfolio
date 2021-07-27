@@ -28,9 +28,20 @@ A project to analyze the Green Energy initiatives taken by Canada. The trend and
 **_Technology Used_**
 
 - Excel
-- Python
 - Power BI
 
 **_Dashboard_**
 
 ![image](https://user-images.githubusercontent.com/87041402/126900746-593dc32e-74e3-4043-9d91-12d0003b89d1.png)
+
+### Breakfast Cereal Analysis | Durham college
+In this project, we mainly analyzed the ingredient change of cereals between 1993 and 2020 and customer's preference based on rating. In this way, we provided advice for the cereal manufacturer to make changes to their traditional product and achieve successful transformation.
+
+**_Technology Used_**
+
+- Excel
+- Python
+
+**_Coding_**
+
+file:///C:/Users/Trudy/Downloads/Breakfast%20Cereal%20Analysis/Breakfast%20Cereal%20Analysis.html
