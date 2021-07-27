@@ -43,5 +43,6 @@ In this project, we mainly analyzed the ingredient change of cereals between 199
 - Python
 
 **_Coding_**
-[Link to code](https://github.com/Trudy-Du/Breakfast-Cereal-Analysis)
+
+[Link to Python Code](https://github.com/Trudy-Du/Breakfast-Cereal-Analysis)
 
