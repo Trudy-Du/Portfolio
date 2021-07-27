@@ -8,13 +8,7 @@
 •	Have rich experience with SQL and database systems such as SQL server
 
 •	Familiar with using Python to clean data, build and optimize suitable data models, perform statistical analysis to dig into the dataset
-
-# Education
-•	Graduate Certificate of Data Analytics for Business Decision: Durham College. Durham, Canada (Ongoing, I will graduate in the August)
-
-•	Master Degree of Mechanical Manufacture and Its Automation: Beijing University of Technology. Beijing, China, Year 2003
-
-•	Bachelor Degree of Mechatronics Engineering: North China University of Technology. Beijing, China, Year 2000                                                                                          
+                                                                                    
 # Experience
 Below is a list of projects that I worked on during the study at Durham College. They showcase some of tools I commonly use.
 ### New York City Shooting Incidents Analysis | Durham college 
