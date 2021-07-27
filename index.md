@@ -12,7 +12,7 @@
 # Experience
 Below is a list of projects that I worked on during the study at Durham College. They showcase some of tools I commonly use.
 ### New York City Shooting Incidents Analysis | Durham college 
-Power BI was used to create a dashboard which displays the time, location and borough trends of New York City Shooting Incidents. Then some advice was given to the public and the Police Department based on the analysis findings.
+Power BI was used to create a dashboard which displays the time, location and borough trends of New York City Shooting Incidents. Then some advice was given to the Police Department based on the analysis findings, so that they can increase police patrol in areas with more shooting incidents during dangerous period.
 
 **_Technology Used_**
 - Excel
@@ -43,5 +43,5 @@ In this project, we mainly analyzed the ingredient change of cereals between 199
 - Python
 
 **_Coding_**
-
+https://github.com/Trudy-Du/Breakfast-Cereal-Analysis
 
