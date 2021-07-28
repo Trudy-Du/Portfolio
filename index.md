@@ -1,13 +1,5 @@
 # Summary
-•	Have strong coordination and communication skills, able to cooperate with teammates to ensure the timely delivery of our products
-
-•	Proficient in using Excel to perform data analysis to gain insight from data
-
-•	Familiar with using Power BI and Tableau to create visualizations and dashboards to support the decision making process
-
-•	Have rich experience with SQL and database systems such as SQL server
-
-•	Familiar with using Python to clean data, build and optimize suitable data models, perform statistical analysis to dig into the dataset
+I'm lucky to live in a big data era and become a data guy. I enjoy using different types of tools to collect data, handle data, find gems in the data and provide insights to help solve practical problems. I look forward to a challenging and exciting data journey!
                                                                                     
 # Experience
 Below is a list of projects that I worked on during the study at Durham College. They showcase some of tools I commonly use.
