@@ -1,4 +1,3 @@
-# Summary
 I'm lucky to live in a big data era and become a data guy. I enjoy using different types of tools to collect data, handle data, find gems in the data and provide insights to help solve practical problems. I look forward to a challenging and exciting data journey!
                                                                                     
 # Experience
