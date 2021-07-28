@@ -35,5 +35,8 @@ In this project, we mainly analyzed the ingredient change of cereals between 199
 
 **_Coding_**
 
+![image](https://user-images.githubusercontent.com/87041402/127252134-6177b4c9-176a-42e6-a7b2-278ed3eab6ba.png)
 [Access to Jupyter Notebook](files/Breakfast Cereal Analysis.html)
+
+
 
