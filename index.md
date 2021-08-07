@@ -1,6 +1,6 @@
 I'm lucky to live in a big data era and become a data professional. I enjoy using different types of tools to collect data, handle data, find gems in the data and provide insights to help solve practical problems. I look forward to a challenging and exciting data career!
 # About Me
-![image](https://user-images.githubusercontent.com/87041402/128612523-07fe3fd3-7bd8-432d-8466-cd2979cb6c96.png)
+![image](https://user-images.githubusercontent.com/87041402/128612854-2538f38b-69aa-4a91-aa42-a9b2f93bcdcb.png)
 
 # Experience
 Below is a list of projects that I worked on during the study at Durham College. They showcase some of tools I commonly use.
