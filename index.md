@@ -27,6 +27,23 @@ A project to analyze the Green Energy initiatives taken by Canada. The trend and
 
 ![image](https://user-images.githubusercontent.com/87041402/126900746-593dc32e-74e3-4043-9d91-12d0003b89d1.png)
 
+### GET Data from public websites via API
+In this project, I mainly used anonymous API to get price data and university data from the two different websites:
+
+**_Technology Used_**
+
+- Python (Replit IDE)
+
+**_Coding_**
+
+![image](https://user-images.githubusercontent.com/87041402/130362490-2550a92a-5122-458e-9d23-cf7ea5ab41a6.png)
+
+![image](https://user-images.githubusercontent.com/87041402/130362505-14c36b89-59da-4e44-9474-9b20970ecade.png)
+
+![image](https://user-images.githubusercontent.com/87041402/130362991-89a3750c-1440-42b6-98c9-4aacedf2331d.png)
+
+![image](https://user-images.githubusercontent.com/87041402/130362997-7a8dbfec-c4f2-4349-94ab-40e1c8e97614.png)
+
 ### Breakfast Cereal Analysis | Durham college
 In this project, we mainly analyzed the ingredient change of cereals between 1993 and 2020 and customer's preference based on rating. In this way, we provided advice for the cereal manufacturer to make changes to their traditional product and achieve successful transformation.
 
